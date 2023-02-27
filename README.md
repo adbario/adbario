@@ -9,6 +9,6 @@ I'm a business-minded full-stack software developer and graphic designer passion
 
 On a mission to create cutting-edge digital products. Different but unique. 🇫🇮 🇬🇧
 
-#### One of my most succesful personal projects
+#### One of my most successful personal projects
 
 [![platform](https://img.shields.io/packagist/dt/adbario/php-dot-notation?label=php-dot-notation&style=for-the-badge)](https://github.com/adbario/php-dot-notation)

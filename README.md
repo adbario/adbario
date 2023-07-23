@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Riku 👋
 
-
-I work on crypto, NFT and Web3 projects and collaborate on open-source packages when the time allows me to.
+I work mainly on Web3 and AI projects and collaborate on open-source packages whenever possible.
 
 I'm a business-minded full-stack software developer and graphic designer passionate about delivering creative solutions for complex software problems.
 

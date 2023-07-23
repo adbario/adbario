@@ -1,4 +1,4 @@
-![riku-github-readme](https://user-images.githubusercontent.com/22136575/163757055-c1424666-3f40-4e45-b787-db37ee82037f.jpg)
+![Design. Build. Grow.](https://github.com/adbario/adbario/assets/22136575/d3b3ba66-5ba2-44c3-b53f-99ce33979459)
 
 ### Hi there, I'm Riku 👋
 
